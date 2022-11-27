@@ -1,5 +1,6 @@
 # LabExercise2
 NS2 simulations to simulate flow transfer in networks
+
 Prompt: In the first task you will compare the analytical average flow transfer times provided by the 
 equations in (9) to the corresponding simulated transfer times. The artificial loss-module in ns2 generates losses randomly in the bottleneck link 
 queue so that each packet entering the queue is dropped with an equal probability p (an example of 
